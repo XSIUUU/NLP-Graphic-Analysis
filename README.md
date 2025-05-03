@@ -1,4 +1,4 @@
-# Graphic-Analysis (STUDY OF IG INFLUENCER)
+# NLP-Graphic-Analysis (STUDY OF IG INFLUENCER)
 
 
 # 📊 Assignment 2: Multimodal Social Media Engagement Analysis
