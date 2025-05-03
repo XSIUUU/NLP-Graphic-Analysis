@@ -1,1 +1,1 @@
-# NLP-Graphic-Analysis
+# Graphic-Analysis (STUDY OF IG INFLUENCER)
